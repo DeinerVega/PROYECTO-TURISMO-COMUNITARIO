@@ -1,0 +1,11 @@
+
+    .nav_li {
+        display: block;
+        width: 90px !important;
+        }
+        
+        .nav_li img {
+        max-width: 100%;
+        }
+
+        

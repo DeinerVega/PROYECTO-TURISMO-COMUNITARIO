@@ -1,0 +1,18 @@
+section{
+    margin-bottom: 150px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items:  flex-end;
+    width: 70%;
+    height: 100%;
+    float: left
+}
+
+.row{
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-left: 5px;
+}
